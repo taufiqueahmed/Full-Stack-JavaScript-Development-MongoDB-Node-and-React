@@ -1,0 +1,6 @@
+node;
+npm:  Node Package Manager  is a package manager for the JavaScript programming language maintained by npm. 
+      npm is the world's largest Software Registry. The registry contains over 800,000 code packages.
+      
+npx:  stands for Node Package eXecute. It is simply an NPM package runner. 
+      It allows developers to execute any Javascript Package available on the NPM registry without even installing it.
