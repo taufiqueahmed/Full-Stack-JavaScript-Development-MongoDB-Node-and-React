@@ -4,3 +4,7 @@ npm:  Node Package Manager  is a package manager for the JavaScript programming 
       
 npx:  stands for Node Package eXecute. It is simply an NPM package runner. 
       It allows developers to execute any Javascript Package available on the NPM registry without even installing it.
+      
+      
+-Use Babel or TypeScript to translate JSX which is a JavaScript extension that the browsers do not understand hence we need to use Babel or TypeScript to tansform 
+JSX code to JavaScript code.
